@@ -1,2 +1,4 @@
 # hello-world
-Sample repository
+Hello there
+
+I'm just checking what GitHub is all about
